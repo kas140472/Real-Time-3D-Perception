@@ -83,10 +83,7 @@ Add or modify calibration values in the `KNOWN_DISTANCES` dictionary for other o
 
 - Python 3.8+
 - Webcam or USB camera
-- Libraries:
- -- ultralytics
- -- opencv-python
- -- numpy
+- Libraries: ultralytics, opencv-python, numpy
 
 ## Future Improvements
 
