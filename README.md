@@ -22,15 +22,18 @@ A real-time object detection and tracking system that identifies household objec
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/Real-Time-3D-Perception.git
-cd Real-Time-3D-Perception```
+cd Real-Time-3D-Perception
+```
 
 2. Install required packages
 ```bash
-pip install ultralytics opencv-python numpy```
+pip install ultralytics opencv-python numpy
+```
 
 3. Run the application
 ```bash
-python perception_system.py```
+python perception_system.py
+```
 
 ## Usage
 
