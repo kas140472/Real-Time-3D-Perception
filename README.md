@@ -23,14 +23,14 @@ A real-time object detection and tracking system that identifies household objec
 The system can detect objects and analyze their motion states:
 
 #### Moving Objects
-![Moving Bottle Detection](assets/3dperception.png)
+![Moving Bottle Detection](images/3dperception.png)
 *Detection of a moving bottle showing motion status, distance estimation, and collision prediction*
 
 #### Stationary Objects
-![Stationary Bottle Detection](assets/3dperception2.png)
+![Stationary Phone Detection](images/3dperception2.png)
 *Stable object detection with distance measurement and stability analysis*
 
-![Stationary Phone Detection](assets/3dperception4.png)
+![Stationary Bottle and Mouse Detection](images/3dperception4.png)
 *Multiple object class detection demonstrating system versatility*
 
 ## Setup and Installation
